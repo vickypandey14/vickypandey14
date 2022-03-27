@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @vickypandey14
+- 👋 Hi, this is @vickypandey14😀
+- i recently joined basically i am beginner and i want to do something or learn something on github
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web development
 - 
