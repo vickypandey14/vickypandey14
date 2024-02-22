@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Pandey</h1>
-<h3 align="center">I'm an experienced full-stack web developer with proficiency in a wide array of web development technologies.</h3>
+<h3 align="center">I'm a full-stack web developer with proficiency in a wide array of web development technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
