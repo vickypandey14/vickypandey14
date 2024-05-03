@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vivek Pandey</h1>
-<h3 align="center">I am a backend-centric full-stack web developer proficient in a wide range of web development technologies.</h3>
+<h1 align="center">Hi, I'm Vivek Pandey</h1>
+<h3 align="center">I am a Backend-Centric Full-Stack Web Developer proficient in a wide range of web development technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -8,14 +8,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="bootstrap" width="50" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="40"/>&nbsp;&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="node js" width="63" height="40"/>&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="node js" width="63" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://indykoning.nl/wp-content/uploads/2020/03/Livewire.png" alt="livewire" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js" width="40" height="40"/>&nbsp;&nbsp;
