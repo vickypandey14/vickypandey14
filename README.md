@@ -30,7 +30,6 @@
 
 
 <br>
-<br>
 <p>
   <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickypandey14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="github top languages">
 <img align="right" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=vickypandey14&theme=tokyonight&hide_border=true" alt="github streak">
