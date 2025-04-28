@@ -11,8 +11,8 @@
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>&nbsp;&nbsp;
-    <img src="https://indykoning.nl/wp-content/uploads/2020/03/Livewire.png" alt="livewire" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>&nbsp;&nbsp;
