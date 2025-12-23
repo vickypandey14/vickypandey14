@@ -28,5 +28,5 @@
 <br>
 <p>
     <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickypandey14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="github top languages">
-    <img align="left" src="https://git-hub-streak-stats.vercel.app?user=vickypandey14&theme=whatsapp-dark2&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="github streak">
+    <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=vickypandey14&theme=tokyonight&hide_border=false" alt="github streak">
 </p>
