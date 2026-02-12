@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vivek</h1>
-<h3 align="center">I'm a Backend-Centric Full-Stack Web Developer skilled in building robust and scalable web applications.</h3>
+<h3 align="center">Full-Stack Web Developer with deep expertise in backend engineering and scalable web architecture.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
